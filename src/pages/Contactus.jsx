@@ -1,5 +1,5 @@
 import heroImage from '../assets/fruits.jpg'; 
-import Shopping from '../assets/family.jpg'
+import Shopping from '../assets/family.jpg' ;
 const Contactus = () => {
   return (
     <div>

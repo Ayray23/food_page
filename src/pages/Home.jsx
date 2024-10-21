@@ -14,7 +14,7 @@ const Home = () => {
     <div>
       {/* Background image */}
        <section
-      className="relative bg-cover bg-center h-screen flex items-center justify-center"
+      className="relative  md:pt-0 bg-cover bg-center h-screen flex items-center justify-center"
       style={{ backgroundImage: `url(${heroImage})` }}
     >
       <div className="absolute inset-0 bg-black opacity-50"></div>
